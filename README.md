@@ -1,4 +1,4 @@
-# DropBoxSync
+# dropbox-sync
 
 This implementation is able to create multiple clients which connect to one server and integrate with him. 
 1. When a client connects to the server, sends the LOG_ON <IP address, portNum> message to him, so as to inform for its existence.
